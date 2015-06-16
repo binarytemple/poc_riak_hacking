@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="ERLANG_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="erlang" name="Erlang">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/ebin" />
+    <output-test url="file://$MODULE_DIR$/.eunit" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="riak_control" />
+    <orderEntry type="module" module-name="riaknostic" />
+    <orderEntry type="module" module-name="yokozuna" />
+    <orderEntry type="module" module-name="node_package" />
+    <orderEntry type="module" module-name="riak_search" />
+    <orderEntry type="module" module-name="lager_syslog" />
+    <orderEntry type="module" module-name="rebar_lock_deps_plugin" />
+    <orderEntry type="module" module-name="riak_auth_mods" />
+    <orderEntry type="module" module-name="meck" />
+    <orderEntry type="module" module-name="riak_kv" />
+    <orderEntry type="module" module-name="cluster_info" />
+  </component>
+</module>
